@@ -49,7 +49,7 @@ Google Generative AI API (@google/generative-ai)
 
 📦 Installation
 1. Clone Repository
-git clone https://github.com/YOURUSERNAME/ai-poem-generator.git
+git clone https://github.com/Ochelle-Abraham/ai-poem-generator.git
 cd ai-poem-generator
 
 2. Install dependencies
