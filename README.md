@@ -1,11 +1,10 @@
-# 🌟 AI Poem Generator
+## 🌟 **AI Poem Generator**
 
 An elegant, AI-powered poem generator built with **React**, **Google
 Gemini API**, and a clean, responsive UI. Users can choose poem themes,
 generate creative poems instantly, and refresh results with a single
 click.
 A demo can be found at : https://docs.google.com/videos/d/1kI5j4ZcUor91MZMBJ7QGUZMXpzIdtsMIkngx5_p7t3Q/edit?usp=sharing
-------------------------------------------------------------------------
 
 ## 📖 Overview
 
