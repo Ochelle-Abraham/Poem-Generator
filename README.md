@@ -4,19 +4,19 @@ An elegant, AI-powered poem generator built with **React**, **Google
 Gemini API**, and a clean, responsive UI. Users can choose poem themes,
 generate creative poems instantly, and refresh results with a single
 click.
-
+A demo can be found at : https://docs.google.com/videos/d/1kI5j4ZcUor91MZMBJ7QGUZMXpzIdtsMIkngx5_p7t3Q/edit?usp=sharing
 ------------------------------------------------------------------------
 
 ## 📖 Overview
 
 The **AI Poem Generator** is a frontend application that uses Google's
-Generative AI models to generate short, themed poems in real time.\
+Generative AI models to generate short, themed poems in real time.
 It demonstrates:
 
--   API integration with modern AI models\
--   Dynamic UI updates with React hooks\
--   Clean component structure\
--   Responsive styling and interactive buttons\
+-   API integration with modern AI models
+-   Dynamic UI updates with React hooks
+-   Clean component structure
+-   Responsive styling and interactive buttons
 -   REST-based content generation
 
 This project is ideal for showcasing your frontend logic, API handling,
